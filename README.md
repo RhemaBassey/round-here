@@ -1,1 +1,0 @@
-# round-here: An app to find services, shops, events, and more around your area.
